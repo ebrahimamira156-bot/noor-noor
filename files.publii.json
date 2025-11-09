@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "9e159ec57b3c7f96eb109122968a98da"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "b3e4024667b52ea4b55006d35e747d50"
+    },
+    {
+        "path": "best-quran-academy-a-complete-guide-to-choosing-the-ideal-platform-for-quran-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-a-complete-guide-to-choosing-the-ideal-platform-for-quran-learning/index.html",
+        "type": "file",
+        "md5": "25f924cf665c4f68a9c49c96f0fdb1e7"
+    },
+    {
+        "path": "best-quran-academy-choosing-the-right-platform-for-quranic-excellence",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-choosing-the-right-platform-for-quranic-excellence/index.html",
+        "type": "file",
+        "md5": "15d975bebc41daca54014eb2d2c62ffe"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "b4f30fd11e97677263622152c8928249"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6d9a05f15d872411f0735cf9c5da477d"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4c943bc3ce152d0c2bea4819499cea87"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-26.jfif",
+        "type": "file",
+        "md5": "d2894c3b290f1928a88f39e5b7af5a4c"
+    },
+    {
+        "path": "quran-lessons-for-my-son-a-complete-guide-to-choosing-the-right-online-classes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-a-complete-guide-to-choosing-the-right-online-classes/index.html",
+        "type": "file",
+        "md5": "6e646663cbe3a0a09e849bc9de0e94a9"
+    },
+    {
+        "path": "quran-lessons-for-my-son-building-strong-faith-and-confident-recitation-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-building-strong-faith-and-confident-recitation-from-home/index.html",
+        "type": "file",
+        "md5": "c4bb77ec90bac339d08b2ea920bcbc08"
+    },
+    {
+        "path": "quran-lessons-for-my-son-helping-children-connect-with-the-quran-in-the-digital-age",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-helping-children-connect-with-the-quran-in-the-digital-age/index.html",
+        "type": "file",
+        "md5": "c8ac15a6c7bcff186b9c4677214f3218"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "bfedd21e1197c7a507084051f50b6177"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "bdad4f17a38a2d4aed74b0f5f094ab78"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a62ecd9ec05ec8e5143ea42a4296c35a"
+    }
+]
